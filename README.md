@@ -7,11 +7,11 @@ In order to let it work you'll have to
 
 and 
 
-	node app
+	npm start
 
 if you want to launch test the command is
 
-	node_modules/nodeunit/bin/nodeunit tests
+	npm test
 
 This test was made in order to fulfill the following...
 
