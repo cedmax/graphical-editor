@@ -1,0 +1,8 @@
+{
+    "name": "graphic_editor",
+    "version": "0.0.1",
+    "dependencies": {
+        "prompt": "0.2.1",
+        "nodeunit": "0.7.4"
+    }
+}
